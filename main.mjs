@@ -35,7 +35,7 @@ const svg = d3.create("svg")
         `);
 const colors = ["#2f75bb", "#882490", "#00a74f", "#bcbdbf"];
 
-// Tạo các thanh màu xanh
+// Tạo các thanh với màu sắc khác nhau
 svg.append("g")
   .selectAll()
   .data(data)
