@@ -1,0 +1,6 @@
+[
+  { "letter": "Dog only", "frequency": 36 },
+  { "letter": "Dog and cat", "frequency": 28 },
+  { "letter": "Cat only", "frequency": 18 },
+  { "letter": "No pets", "frequency": 32 }
+]
