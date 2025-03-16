@@ -1,6 +1,5 @@
 import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 import data from "./data.json" with { type: "json" };
-console.log(data)
 
 // Specify the chart’s dimensions, based on a bar’s height.
 const barHeight = 42;
